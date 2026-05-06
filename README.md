@@ -46,4 +46,4 @@
 
 ## 👤 Author
 
-**thisura-maleesha**
+**Thisura Maleesha**
