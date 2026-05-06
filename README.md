@@ -6,6 +6,10 @@
 
 > Navigate a randomly generated maze as a rabbit and reach the 🥕 carrot before time or moves run out!
 
+## 📸 Preview
+
+![Game Screenshot](screenshot.png)
+
 ---
 
 ## 🎮 How to Play
@@ -41,4 +45,5 @@
 ---
 
 ## 👤 Author
+
 **thisura-maleesha**
